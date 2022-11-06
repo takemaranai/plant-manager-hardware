@@ -1,1 +1,1 @@
-# plant-watering-management
+# plant-manager-hardware
